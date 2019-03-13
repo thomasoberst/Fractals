@@ -1,0 +1,2 @@
+# Fractals
+(Maple) A routine for computing and plotting various fractals, including the Koch snowflake, Cantor set, Sierpinski triangle, and fractal fern. This came out of a course manual I authored for Duquesne University as a post-undergraduate project. The full code and outputs are posted as a PDF excerpt from the manual. I’ll upload the original source files as soon as I track the rest of them down (I wrote this quite some time ago!).
